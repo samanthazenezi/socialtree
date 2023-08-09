@@ -40,10 +40,16 @@
     align-items: center;
     padding: 3px;
     text-decoration: none;
+    cursor: pointer;
+}
+.whats:hover, .instagram:hover, .catalogo:hover, .sobre:hover {
+    background-color: #BB99DD;
+    color: white;
 }
 footer {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
+    cursor: pointer;
 }
